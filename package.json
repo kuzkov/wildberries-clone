@@ -1,0 +1,23 @@
+{
+  "name": "wildberries-clone",
+  "version": "1.0.0",
+  "description": "Hello, World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzkov/wildberries-clone.git"
+  },
+  "author": "Artyom Kuzkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzkov/wildberries-clone/issues"
+  },
+  "homepage": "https://github.com/kuzkov/wildberries-clone#readme",
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
